@@ -40,22 +40,28 @@
 </div>
 
 ---
+
 <br>
 
 <h3 align="center"><b>📘 Projects 📘</b></h3>
 
 ---
-
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wrewre46&repo=JSPBoard)](https://github.com/wrewre46/JSPBoard)
 
 ---
+<br>
 
 
+<h3 align="center"><b>📌 Problem Solving 📌</b> <img src="https://img.shields.io/badge/Java-007396?style=flat-badge&logo=java&logoColor=white"/> </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrewre46&layout=compact&theme=tokyonight)](https://github.com/wrewre46/github-readme-stats)
+---
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wrewre46)](https://solved.ac/wrewre46)
 
+---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrewre46&layout=compact&theme=tokyonight)](https://github.com/wrewre46/github-readme-stats)
 <br><br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9C00FF,100:00BFFF&height=150&section=footer)
