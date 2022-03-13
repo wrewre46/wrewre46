@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=welcome&fontSize=40&fontColor=000000&fontAlign=50&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:9C00FF,100:00BFFF&height=150&section=header&text=welcome&fontSize=40&fontColor=000000&fontAlign=50&fontAlignY=30)
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+
+---
 
 ```
                                            Techs that i've used at least once and familiar
@@ -28,6 +30,8 @@
 
 </div>
 
+---
+
 <h3 align="center"><b>🛠 Tools 🛠</b></h3>
 
 <div align="center">
@@ -38,3 +42,13 @@
 
 
 </div>
+
+
+
+
+
+
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9C00FF,100:00BFFF&height=150&section=footer)
