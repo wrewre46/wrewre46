@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9C00FF,100:00BFFF&height=150&section=header&text=welcome&fontSize=40&fontColor=000000&fontAlign=50&fontAlignY=30)
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
 ---
@@ -41,7 +42,7 @@
 ---
 <br>
 
-<h3 align="center"><b>🛠 Projects 🛠</b></h3>
+<h3 align="center"><b>📘 Projects 📘</b></h3>
 
 ---
 
