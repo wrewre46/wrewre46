@@ -53,6 +53,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrewre46&layout=compact&theme=tokyonight)](https://github.com/wrewre46/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wrewre46)](https://solved.ac/wrewre46)
 
 
 <br><br>
