@@ -10,8 +10,6 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-badge&logo=springboot&logoColor=white"/>
-
-
 </div>
 
 ```
@@ -26,28 +24,34 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=mysql&logoColor=white"/>
-
-
 </div>
 
 ---
-
+<br>
 <h3 align="center"><b>🛠 Tools 🛠</b></h3>
+
+---
 
 <div align="center">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-badge&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-badge&logo=intellijidea&logoColor=white"/>
-
-
-
 </div>
 
+---
+<br>
+
+<h3 align="center"><b>🛠 Projects 🛠</b></h3>
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wrewre46&repo=JSPBoard)](https://github.com/wrewre46/JSPBoard)
+
+---
 
 
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrewre46&layout=compact&theme=tokyonight)](https://github.com/wrewre46/github-readme-stats)
 
 
 <br><br>
