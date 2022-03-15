@@ -7,6 +7,7 @@
 ```
                                            Techs that i've used at least once and familiar
 ```
+
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-badge&logo=spring&logoColor=white"/>
@@ -43,6 +44,29 @@
 
 <br>
 
+<h3 align="center"><b>📌 BackEnd Study 📌</b></h3>
+
+---
+
+<div align="center">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-badge&logo=springboot&logoColor=white"/>
+</div>
+
+
+<b>1. 자바 웹 개발 워크북(MVC아키텍쳐, 마이바티스, 스프링으로 만드는 실무형 개발자 로드맵)
+<a href="https://jw-nam.tistory.com/category/%EA%B3%B5%EB%B6%80%20%EC%A0%95%EB%A6%AC/Web">(정리한 내용)</a><br>
+<b>2. [인프런] 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
+<br>
+<b>3. [인프런] 스프링 핵심 원리 - 기본편
+<br>
+
+
+
+---
+
+<br>
 <h3 align="center"><b>📘 Projects 📘</b></h3>
 
 ---
@@ -51,7 +75,6 @@
 
 ---
 <br>
-
 
 <h3 align="center"><b>📌 Problem Solving 📌</b> <img src="https://img.shields.io/badge/Java-007396?style=flat-badge&logo=java&logoColor=white"/> </h3>
 
