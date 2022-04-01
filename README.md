@@ -20,7 +20,6 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-badge&logo=django&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-badge&logo=bootstrap&logoColor=white"/>
