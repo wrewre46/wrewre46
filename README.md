@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-badge&logo=thymeleaf&logoColor=white"/>
 </div>
 
 ```
@@ -68,7 +69,9 @@
 
 ---
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wrewre46&repo=OurRecipe)](https://github.com/wrewre46/OurRecipe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wrewre46&repo=JSPBoard)](https://github.com/wrewre46/JSPBoard)
+  
 
 ---
 <br>
