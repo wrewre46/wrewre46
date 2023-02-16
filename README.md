@@ -56,11 +56,8 @@
 <b> 수강 완료</b>
   
 1. 자바 웹 개발 워크북(MVC아키텍쳐, 마이바티스, 스프링으로 만드는 실무형 개발자 로드맵)
-<a href="https://jw-nam.tistory.com/category/JSP">(정리한 내용)</a><br>
 2. [인프런] 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
-<a href="https://jw-nam.tistory.com/category/Spring/%5B%EC%9D%B8%ED%94%84%EB%9F%B0%5D%20Spring%20%EC%9E%85%EB%AC%B8">(정리한 내용)</a><br>
 3. [인프런] 스프링 핵심 원리 - 기본편
-<a href="https://jw-nam.tistory.com/category/Spring/%5B%EC%9D%B8%ED%94%84%EB%9F%B0%5D%20Spring%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20%EA%B8%B0%EB%B3%B8%ED%8E%B8">(정리한 내용)</a><br>
 4. [인프런] 모든 개발자를 위한 HTTP 웹 기본 지식
 5. [인프런] 스프링 MVC 1편  - 백엔드 웹 개발 핵심 기술
 6. [인프런] 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발
