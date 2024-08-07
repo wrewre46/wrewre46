@@ -4,9 +4,9 @@
 
 ---
 
-```
+
                                            Techs that i've used at least once and familiar
-```
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-badge&logo=java&logoColor=white"/>
@@ -17,9 +17,9 @@
 
 ---
 
-```
+
                                           Techs that i've used at least once but unfamiliar
-```
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white"/>
