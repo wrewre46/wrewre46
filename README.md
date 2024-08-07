@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-badge&logo=thymeleaf&logoColor=white"/>
 </div>
 
+---
+
 ```
                                           Techs that i've used at least once but unfamiliar
 ```
